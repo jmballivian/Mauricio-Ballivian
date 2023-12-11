@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning LLM and prompt engineering
 - 💞️ I’m looking to collaborate on insurance projets
-- 📫 How to reach me?, drop me and email jmballivian@gmail.com
+- 📫 How to reach me?, drop me an email jmballivian@gmail.com
 
 <!---
 jmballivian/jmballivian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
